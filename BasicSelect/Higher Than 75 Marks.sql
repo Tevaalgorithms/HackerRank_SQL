@@ -1,0 +1,7 @@
+/*
+Enter your query here.
+Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
+*/
+
+SELECT NAME FROM STUDENTS WHERE MARKS > 75
+ORDER BY SUBSTRING(NAME, LEN(NAME) - 2, LEN(NAME)) ASC, ID ASC;
