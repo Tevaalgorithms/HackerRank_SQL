@@ -1,4 +1,5 @@
 # HackerRank_SQL
+This repositoy has Hacker Rank SQL Queries answers.
 
 This is really cool concept in SQL. 
 
